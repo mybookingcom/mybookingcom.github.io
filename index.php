@@ -442,9 +442,9 @@
     <!-- Active JS -->
     <script src="assets/js/active.js"></script>
 
-	<ins class="bookingaff" data-aid="908505" data-target_aid="908505" data-prod="sbp" data-width="900" data-height="300" data-lang="ru" data-currency="RUB" data-cc1="ru">
+	<ins class="bookingaff" data-aid="1421500" data-target_aid="1421500" data-prod="banner" data-width="728" data-height="90" data-banner_id="58912" data-lang="ru">
     <!-- Anything inside will go away once widget is loaded. -->
-    <a href="//www.booking.com?aid=908505">Booking.com</a>
+    <a href="//www.booking.com?aid=1421500">Booking.com</a>
 </ins>
 <script type="text/javascript">
     (function(d, sc, u) {
